@@ -1,0 +1,38 @@
+body{
+    background-color: #5B1C6E;
+    color: #DFBDFF;
+    margin: auto;
+    font-family: Helvetica;
+}
+
+.title{
+    margin: 20px;
+    padding: 10px;
+    
+}
+
+.menu{
+    padding: 3px;
+}
+
+.header{
+    background-color: #f585ff;
+    color: white;
+    padding: 25px;
+    text-align: right;
+    margin: auto;
+}
+
+.contentCard{
+    background-color: #ffe070;
+    color: #731b83;
+    padding: 60px;
+    margin: 50px;
+}
+
+.footer{
+    background-color: #230D2B;
+    text-align: center;
+    padding: 10px;
+    font-size: 12px;
+}
