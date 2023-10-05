@@ -1,8 +1,12 @@
 body{
-    background-color: #5B1C6E;
+    background-color: #731b83;
     color: #DFBDFF;
     margin: auto;
     font-family: Helvetica;
+}
+
+h1{
+    font-size: 50px;
 }
 
 .title{
@@ -12,22 +16,30 @@ body{
 }
 
 .menu{
-    padding: 3px;
+    padding: 5px;
+
 }
 
 .header{
     background-color: #f585ff;
     color: white;
-    padding: 25px;
-    text-align: right;
-    margin: auto;
+    padding: 10px;
+
 }
 
 .contentCard{
     background-color: #ffe070;
     color: #731b83;
-    padding: 60px;
-    margin: 50px;
+    padding: 30px;
+    
+}
+
+.tableCard{
+    margin: auto;
+}
+
+.cardItem{
+    padding: 4%;
 }
 
 .footer{
@@ -35,4 +47,13 @@ body{
     text-align: center;
     padding: 10px;
     font-size: 12px;
+}
+
+input[type="button"]{
+    padding: 30px;
+    margin: 30px;
+    background-color: #f585ff;
+    font-family: Helvetica;
+    font-size: 20px;
+    text-align: left;
 }
