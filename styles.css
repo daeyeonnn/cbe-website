@@ -15,7 +15,8 @@ h1{
 
 .title{
     margin: 20px;
-    padding: 30px;
+    padding: 10px;
+    text-align: center;
     
 }
 
@@ -42,20 +43,12 @@ h1{
     margin: auto;
 }
 
-input[type="button"]{
-    padding: 30px;
-    margin: 30px;
-    background-color: #f585ff;
-    font-family: Helvetica;
-    font-size: 20px;
-    text-align: left;
-}
-
 .contentCard{
     margin: 60px;
     background-color: #ffe070;
-    padding: 40px;
+    padding: 30px;
     color: #731b83;
+    border-radius: 20px;
 }
 
 .contentTitle{
@@ -71,4 +64,13 @@ input[type="button"]{
     padding-right: 20px;
     color: #ffe070;
     text-decoration: none;
+    border-radius: 10px;
+}
+
+img{
+    border-radius: 20px;
+}
+
+.footerLinks{
+    color: #DFBDFF;
 }
