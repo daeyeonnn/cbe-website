@@ -27,7 +27,8 @@ h1{
     text-decoration: none;
     color: #731b83;
     text-align: center;
-    padding-left: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
 
 }
 
@@ -48,9 +49,14 @@ h1{
 .contentCard, .textContent{
     margin: 60px;
     background-color: #ffe070;
-    padding: 30px;
+    padding: 20px;
     color: #731b83;
     border-radius: 20px;
+}
+
+.contentText{
+    padding-left: 20px;
+
 }
 
 .contentTitle{
@@ -58,19 +64,30 @@ h1{
 }
 
 .contentButton{
-    text-align: right;
     background-color: #731b83;
-    font-size: 20px;
+    font-size: 18px;
     padding: 10px;
     padding-left: 20px;
     padding-right: 20px;
     color: #ffe070;
     text-decoration: none;
     border-radius: 10px;
+    margin-right: 5px;
+}
+
+.banner{
+    border-radius: 20px;
+    max-width: 100%;
+    height: auto;
+    margin: auto;
 }
 
 img{
     border-radius: 20px;
+}
+
+.profile{
+    padding-right: 50px;
 }
 
 .footerLinks{
