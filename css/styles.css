@@ -15,6 +15,10 @@ h1{
     font-size: 50px;
 }
 
+h2{
+    font-size: 30px;
+}
+
 .title{
     margin: 20px;
     padding: 10px;
@@ -47,11 +51,16 @@ h1{
 }
 
 .contentCard, .textContent{
-    margin: 60px;
+    text-align: left;
     background-color: #ffe070;
-    padding: 20px;
+    padding: 30px;
     color: #731b83;
     border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 800px;
 }
 
 .contentText{
@@ -92,4 +101,39 @@ img{
 
 .footerLinks{
     color: #DFBDFF;
+}
+
+.homecard{
+    margin: 20px;
+    padding: 20px;
+    background-color: #ffe070;
+    border-radius: 20px;
+    color: #731b83;
+}
+
+.homenews{
+    padding: 40px;
+    background-color: #ffe070;
+    color: #731b83;
+    text-align: justify;
+    width: auto;
+}
+
+.newsitem{
+    padding-right: 20px;
+}
+
+.homeannounce{
+    text-align: right;
+    padding: 40px;
+    color: #ffe070;
+}
+
+.announceitem{
+    padding-right: 50px;
+    padding-left: 50px;
+}
+
+.announceitemdate{
+    text-align: left;
 }
