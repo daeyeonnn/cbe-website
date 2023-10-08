@@ -2,6 +2,7 @@
 
 a{
     text-decoration: none;
+    color: #DFBDFF;
 }
 
 body{
@@ -128,6 +129,11 @@ img{
     padding-right: 60px;
     padding-top: 20px;
     font-size: 22px;
+    color: #731b83;
+}
+
+.subTitle{
+    color: #731b83;
 }
 
 .newsitem{
@@ -147,4 +153,12 @@ img{
 
 .announceitemdate{
     text-align: left;
+}
+
+.keyPoint{
+    padding: 50px;
+    background-color: #230D2B;
+    margin: 30px;
+    color:#f585ff;
+    border-radius: 20px;
 }
