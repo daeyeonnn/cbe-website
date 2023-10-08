@@ -19,6 +19,10 @@ h2{
     font-size: 30px;
 }
 
+p{
+    font-size: 16px;
+}
+
 .title{
     margin: 20px;
     padding: 10px;
@@ -104,8 +108,8 @@ img{
 }
 
 .homecard{
-    margin: 20px;
-    padding: 20px;
+    margin: 35px;
+    padding: 60px;
     background-color: #ffe070;
     border-radius: 20px;
     color: #731b83;
@@ -117,6 +121,12 @@ img{
     color: #731b83;
     text-align: justify;
     width: auto;
+}
+
+.homeCardItem{
+    padding-right: 60px;
+    padding-top: 20px;
+    font-size: 22px;
 }
 
 .newsitem{
