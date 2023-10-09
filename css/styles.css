@@ -162,3 +162,36 @@ img{
     color:#f585ff;
     border-radius: 20px;
 }
+
+.newsTitle{
+    color: #ffe070;
+    padding: 20px;
+    margin: 20px;
+}
+
+.newsMedia{
+    margin: 20px;
+    padding: 30px;
+}
+
+.newsContent{
+    text-align: justify;
+    margin: 40px;
+    padding: 10px;
+}
+
+.yellowButton{
+    background-color: #ffe070;
+    font-size: 18px;
+    padding: 10px;
+    color: #731b83;
+    text-decoration: none;
+    border-radius: 10px;
+    margin: 40px;
+}
+
+.pageBackButtonContainer{
+
+    padding: 5px;
+    margin-top: 30px;
+}
