@@ -1,5 +1,3 @@
-/* DO NOT MAKE ANY CHANGES, NOTIFY NIYO NALANG AKO PAG MAY GUSTO KAYONG I CORRECT */
-
 a{
     text-decoration: none;
     color: #DFBDFF;
@@ -22,10 +20,10 @@ h2{
 
 
 .title{
-    margin: 20px;
-    padding: 10px;
+    color: #DFBDFF;
+    margin: auto;
+    padding: 20px;
     text-align: center;
-    
 }
 
 .menu{
@@ -35,7 +33,21 @@ h2{
     text-align: center;
     padding-left: 20px;
     padding-right: 20px;
+}
 
+.menuTitle{
+    padding: 10px;
+    text-decoration: none;
+    color: #731b83;
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.menu:hover{
+    background-color: #731b83;
+    color: #f585ff;
+    border-radius: 10px;
 }
 
 .header{
@@ -86,6 +98,11 @@ h2{
     margin-right: 5px;
 }
 
+.contentButton:hover{
+    background-color: #230D2B;
+    color: #ffe070;
+}
+
 .banner{
     border-radius: 20px;
     max-width: 100%;
@@ -122,6 +139,7 @@ img{
     background-color: #ffe070;
     color: #731b83;
     text-align: justify;
+    height: auto;
     width: auto;
 }
 
@@ -137,7 +155,7 @@ img{
 }
 
 .newsitem{
-    padding-right: 20px;
+    padding-right: 10px;
 }
 
 .homeannounce{
@@ -190,8 +208,13 @@ img{
     margin: 40px;
 }
 
-.pageBackButtonContainer{
+.yellowButton:hover{
+    background-color: #230D2B;
+    color: #ffe070;
+}
 
+
+.pageBackButtonContainer{
     padding: 5px;
     margin-top: 30px;
 }
